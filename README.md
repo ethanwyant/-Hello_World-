@@ -1,7 +1,10 @@
 # Project Title
-## -Hello_World-
+### -Hello_World-
+
+### Purpose
 My First Repository
 
+### Introduction
 Hi World!
 
 My name is Ethan Wyant, and I am a master's student at the University of Iowa.
